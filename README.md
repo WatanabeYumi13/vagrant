@@ -1,2 +1,2 @@
 # vagrant
-Study in Vagrant Tecnology
+Studying Vagrant Tecnology
